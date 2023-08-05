@@ -24,4 +24,4 @@ This project was developed as part of my journey in learning frontend developmen
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSET Li).
+This project is licensed under the [MIT License](LICENSET Li).

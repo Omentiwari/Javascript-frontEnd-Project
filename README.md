@@ -1,4 +1,4 @@
-# Hosted Link:https://github.com/Omentiwari/Javascript-frontEnd-Project/tree/main
+# Hosted Link:https:https://omentiwari.github.io/Javascript-frontEnd-Project/
 # Todo List Frontend Project
 
 ## Description

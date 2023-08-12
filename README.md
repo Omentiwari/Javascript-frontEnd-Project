@@ -16,7 +16,7 @@ This repository contains a frontend project focused on creating an interactive t
 ## Author
 
 - Name: Omendra Tiwari
-- GitHub: [@omentiwari@gmail.com](https://github.com/your-omentiwari@gmail.com)
+- GitHub: [@omentiwari](https://github.com/Omentiwari/Javascript-frontEnd-Project)
 
 ## Acknowledgements
 
